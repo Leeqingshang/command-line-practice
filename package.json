@@ -1,0 +1,22 @@
+{
+  "name": "task11",
+  "version": "1.0.0",
+  "description": "我们现在做一个命令行应用。当程序启动的时候，我们会看到一个命令行的主界面：",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leeqingshang/command-line-practice.git"
+  },
+  "author": "Leeqingshang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leeqingshang/command-line-practice/issues"
+  },
+  "homepage": "https://github.com/Leeqingshang/command-line-practice#readme",
+  "dependencies": {
+    "cli-interact": "^0.1.9"
+  }
+}
